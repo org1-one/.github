@@ -1,0 +1,9 @@
+{
+  "name": "Organization sample_template",
+  "description": " Gradle build workflow template for all repositories in the organization.",
+  "iconName": "octicon workflow",
+  "categories": ["Continuous Integration"],
+  "filePatterns": [
+    "build.gradle",
+  ]
+}
